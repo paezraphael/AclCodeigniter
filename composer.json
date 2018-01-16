@@ -1,0 +1,13 @@
+{
+    "name": "paezr/codeigniter",
+    "description": "Projeto Acl",
+    "require": {
+        "codeigniter/framework": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Raphael Fernando Paez",
+            "email": "paezraphael@hotmail.com"
+        }
+    ]
+}
